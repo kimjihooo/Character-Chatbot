@@ -17,6 +17,8 @@
 (4) 코사인 유사도가 높은 문장 대체
 
 ### 2. 모델
-유사도 기반의 챗봇과 KoGPT2 기반의 챗봇을 구현하고 성능이 더 좋은 KoGPT2 선택
+유사도 기반의 챗봇과 KoGPT2 기반의 챗봇을 구현하고 성능이 더 좋은 **KoGPT2** 선택
 
 ### 3. 결과
+<img width="710" alt="정환택" src="https://user-images.githubusercontent.com/97178674/212591131-fe181eed-6256-47a9-81d6-1b6388a1a2e5.png">
+
